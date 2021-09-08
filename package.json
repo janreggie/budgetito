@@ -1,7 +1,8 @@
 {
   "name": "budgetito",
   "version": "0.1.0",
-  "url": "https://janreggie.github.io/budgetito",
+  "homepage": "https://janreggie.github.io/budgetito/",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
