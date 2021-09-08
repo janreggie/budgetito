@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c851630.chunk.css",
-    "main.js": "/static/js/main.6c54fa00.chunk.js",
-    "main.js.map": "/static/js/main.6c54fa00.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9cab98a8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9cab98a8.js.map",
-    "static/js/2.06e4fd9b.chunk.js": "/static/js/2.06e4fd9b.chunk.js",
-    "static/js/2.06e4fd9b.chunk.js.map": "/static/js/2.06e4fd9b.chunk.js.map",
-    "static/js/3.58429659.chunk.js": "/static/js/3.58429659.chunk.js",
-    "static/js/3.58429659.chunk.js.map": "/static/js/3.58429659.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9c851630.chunk.css.map": "/static/css/main.9c851630.chunk.css.map",
-    "static/js/2.06e4fd9b.chunk.js.LICENSE.txt": "/static/js/2.06e4fd9b.chunk.js.LICENSE.txt"
+    "main.css": "/budgetito/static/css/main.9c851630.chunk.css",
+    "main.js": "/budgetito/static/js/main.6c54fa00.chunk.js",
+    "main.js.map": "/budgetito/static/js/main.6c54fa00.chunk.js.map",
+    "runtime-main.js": "/budgetito/static/js/runtime-main.10b12fb4.js",
+    "runtime-main.js.map": "/budgetito/static/js/runtime-main.10b12fb4.js.map",
+    "static/js/2.06e4fd9b.chunk.js": "/budgetito/static/js/2.06e4fd9b.chunk.js",
+    "static/js/2.06e4fd9b.chunk.js.map": "/budgetito/static/js/2.06e4fd9b.chunk.js.map",
+    "static/js/3.58429659.chunk.js": "/budgetito/static/js/3.58429659.chunk.js",
+    "static/js/3.58429659.chunk.js.map": "/budgetito/static/js/3.58429659.chunk.js.map",
+    "index.html": "/budgetito/index.html",
+    "static/css/main.9c851630.chunk.css.map": "/budgetito/static/css/main.9c851630.chunk.css.map",
+    "static/js/2.06e4fd9b.chunk.js.LICENSE.txt": "/budgetito/static/js/2.06e4fd9b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cab98a8.js",
+    "static/js/runtime-main.10b12fb4.js",
     "static/js/2.06e4fd9b.chunk.js",
     "static/css/main.9c851630.chunk.css",
     "static/js/main.6c54fa00.chunk.js"
